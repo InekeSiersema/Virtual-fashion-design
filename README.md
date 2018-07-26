@@ -5,7 +5,7 @@ The course is divided in 4 chapters containing 3 lessons.
 All lessons have assignments, broad information on the topic and challenging excercises
 ___
 ## Virtual Identity
-!(https://www.youtube.com/watch?v=eg-Mg55M5QQ)
+![LilMiquela](https://www.youtube.com/watch?v=eg-Mg55M5QQ)
 
 *”A face without freckles is like a sky without stars,”* **- [LilMiquela’s creator(2018)](https://www.instagram.com/darth_bador/)**
 
