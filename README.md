@@ -1,6 +1,7 @@
 # Virtual-fashion-design toolkit
 A professional and practice based course for bachelor fashion students and professionals. To understand and experience best methods of creating virtual 
-prototypes in fashion. The course is divided in the chapters .........each lesson is build up in .......... All files have an assignment,background information and excercises
+prototypes in fashion. The course is divided in 4 chapters with each 3 lessons. 
+All lessons content an assignment, background information and excercises
 ___
 
 ![GitHub Logo](/images/logo.png)
